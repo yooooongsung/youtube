@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "9m5UWd9y1PU1YpzhII-lsIrSzWU",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZwHEaqPiAizU0w7MU4ltn89sylQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sggniHntS4s"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-04T21:49:05Z",
+                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+                "title": "WATCH LIVE Wallex US Open Of Surfing presented by Pacifico - Day 8",
+                "description": "The US Open of Surfing is one of Southern California's best summer traditions. Former CT surfers and elite young talents battle at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sggniHntS4s/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sggniHntS4s/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sggniHntS4s/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "World Surf League",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-08-04T21:49:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ETz96gZOepTIWgW7q1qE2KbXqU4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1jjNvbZ4iXk"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-04T13:30:39Z",
+                "channelId": "UCeYue9Nbodzg3T1Nt88E3fg",
+                "title": "Surfing Indonesia | Riding Razor Tip Reef GoPro POV",
+                "description": "Mason Ho runs off one evening in his signature REEF x MHO slides for a quick surf at Razor Tip Reef aka Padang Padang ,Bali.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1jjNvbZ4iXk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1jjNvbZ4iXk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1jjNvbZ4iXk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ho & Pringle Productions",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-04T13:30:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rNCiL0U3RgjK7Mo01oC4QHA8CwE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9cl4UvwCL3E"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-05T00:12:49Z",
+                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+                "title": "WATCH LIVE Wallex US Open Of Surfing presented by Pacifico - Day 7",
+                "description": "The US Open of Surfing is one of Southern California's best summer traditions. Former CT surfers and elite young talents battle at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9cl4UvwCL3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9cl4UvwCL3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9cl4UvwCL3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "World Surf League",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-05T00:12:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zROYSF8xH18lFWrWv1tuSJofcbs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eSWST13stO4"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-27T15:00:32Z",
+                "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+                "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
+                "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Waves of the World",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-27T15:00:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WelMYhDTtR4cp5vLVqHuSApEqhc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ma67yOdMQfs"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-23T17:00:15Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
+                "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-23T17:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k__SMAtw2ENmmR2tI_RbD9znKjM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q3kI8atcI6E"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-10T19:07:20Z",
+                "channelId": "UCx18ywTcohtS9lpNXt8noWQ",
+                "title": "The greatest surfer of all-time 🤯 (via @AustinKeen)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q3kI8atcI6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q3kI8atcI6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q3kI8atcI6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Omar Raja - ESPN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-10T19:07:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HfAdoXSeWapvye8IU6NO6XeYD6U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jXi3hAvPmUU"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-04T01:31:17Z",
+                "channelId": "UClKwr2Vp4iH06IeQuReImSg",
+                "title": "THE END OF KELLY SLATER AT THE US OPEN OF SURFING!",
+                "description": "Subscribe to my Channel: @OTCZeke MERCHANDISE: https://otczeke.com ZEKE & DESTROY MOVIE: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jXi3hAvPmUU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jXi3hAvPmUU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jXi3hAvPmUU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jacob Szekely \"Zeke\"",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-04T01:31:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rVMlpQaorOWHIp3B0I-3m5uq8yI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a2NxgF2aSDw"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-22T07:30:02Z",
+                "channelId": "UCOtHosOqPe9d6vLy-8LfHzQ",
+                "title": "Kelis Kaleopaa surfing at Sayulita during Mexi Log Fest 2022 | Highlight from the RAW DAYS",
+                "description": "Mexi Log Fest 2022 with stylish loggers around the world. Footage by Heiko Bothe. Full edit: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NobodySurf : Surfing Videos",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-22T07:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "REpOG0tf9NNxv_ZSIJ2tR1CfuoM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XyFv5XBE7fY"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-02T19:02:12Z",
+                "channelId": "UCJPR8hrbE_142CetnzkH0ig",
+                "title": "Kook fest during US Open of surfing @ HB [ POV SURF 58 ]",
+                "description": "The week of the US open of surfing is probably the worst time of the year to surf by the pier. And yet, I went anyway. That's the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XyFv5XBE7fY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XyFv5XBE7fY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XyFv5XBE7fY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "earlysessions",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-02T19:02:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y5B4AybbqMFkekXJW6b-GH0ZoLw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DEI6JkaGPSA"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-04T23:41:06Z",
+                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+                "title": "HIGHLIGHTS Day 7 // Wallex US Open of Surfing presented by Pacifico",
+                "description": "Hefty upsets continued, dreams of early qualification were dashed, and stacked Quarterfinals draws await at the Wallex US Open ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DEI6JkaGPSA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DEI6JkaGPSA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DEI6JkaGPSA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "World Surf League",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-04T23:41:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K7du_rkOCmuOiPnpwxpO04VVNkA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7IKomFtZfZw"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-03T21:29:32Z",
+                "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
+                "title": "The Kelly Slater of Finger Surfing scores FIRING mini wave!",
+                "description": "Scoring glassy summer jello shorebreak and @SkidKids finger surfs the glassiest micro slab tubes of his life! Kind of. Waves have ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7IKomFtZfZw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7IKomFtZfZw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7IKomFtZfZw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BEEFS T.V.",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-03T21:29:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FtDoyseWwYtQalxl9h6jzTwJA3Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b7Pl5Rr8ZYk"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-01T19:14:10Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "The BEST of Surfing in 2022",
+                "description": "What a year. 2022 was packed to the gills with everything the surfing world has to offer. Whether it be seemingly endless historic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-01T19:14:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5t4RdcaIDZTfZaUOMdEuQsmWMSs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pmlzdeZuAk8"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-27T14:28:13Z",
+                "channelId": "UCxkIzPnPzWLz4IeuxIROflg",
+                "title": "What Surfing Is ACTUALLY Like as a Beginner",
+                "description": "See what it's actually like to surf as a beginner, including why it's fun and why it kind of sucks at times! Click below to join the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Travis Marziani",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-27T14:28:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L5ziC6Aru0xkQne8_HEqDV7BRWY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mBvBVVNEd9c"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-05T01:51:11Z",
+                "channelId": "UCFgENuK4dlrFdjW9nqvExWg",
+                "title": "SURFING HAWAII&#39;S FIRST WAVE POOL!!",
+                "description": "Go surf! Did you go surf yet? GO! #celsiuslivefit #celsiusbrandambassador https://www.celsius.com/ Eli on instagram : @eli_olson ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mBvBVVNEd9c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mBvBVVNEd9c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mBvBVVNEd9c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eli Olson",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-05T01:51:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EVF1kIKxApWRhR6LXA-D3trqeNU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U9rfQ-MsUZY"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-26T18:00:29Z",
+                "channelId": "UCwf1EqcZDlXCypkTovI9Mjg",
+                "title": "Surf day “fail” 🌊👙🐠 #surfing #floridalife #underwater",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U9rfQ-MsUZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U9rfQ-MsUZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U9rfQ-MsUZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brynley Joyner",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-26T18:00:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Q6TvE6VpVyqeRVqCoNuKQodQF58",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iMf_givG9vE"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-04T08:44:23Z",
+                "channelId": "UC-bjxNfLd9KkydU8Q0ep-qQ",
+                "title": "Surfing J-Bay with Mozambique&#39;s Best Surfer and Kelly Slater | Corona Open J-Bay",
+                "description": "Mozambique's first professional surfer and Surfers Not Street Children's Mozambique Country Director, sung Min 'Mini' Cho, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iMf_givG9vE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iMf_givG9vE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iMf_givG9vE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ZagTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-04T08:44:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zLwwxYiVBxdMhsMy4sfV6kTzw48",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1ctW5-39xWk"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-28T17:00:02Z",
+                "channelId": "UCm9NnEJTi7_B86QWgQiUCJA",
+                "title": "ONE CRAZY SESSION SURFING GIANT HT&#39;S (LANCES RIGHT)",
+                "description": "THE WAVES ARE HERE AND THE WEEKLY VLOGS KEEP COMING!!! Subscribe to z channel AND support the mission!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1ctW5-39xWk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1ctW5-39xWk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1ctW5-39xWk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Koa Smith",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-28T17:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XyJQV-fkShVLgL_q9BpYV3cj6tY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0Z2MnUAB92M"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-03T21:00:00Z",
+                "channelId": "UCsXYYt9hmwvaIl6v73JHKWw",
+                "title": "CROWD WARS: Malibu vs Doheny",
+                "description": "The Surf Showdown, who's winning the Crowd Wars? Malibu or Doheny? While both are insanely crowded, the mindset is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0Z2MnUAB92M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0Z2MnUAB92M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0Z2MnUAB92M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brad Jacobson",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-03T21:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a70f0Bt_bcxfO-VcQQ9enzUlcEc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sKhf7QWJ7hg"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-04T07:00:25Z",
+                "channelId": "UC3DIR1s_jw1wr4p4wWg7JGQ",
+                "title": "Overcast with a 99% Chance of Getting Seriously Tubed.",
+                "description": "A great session one rainy day at Kirra where everyone got tubed. No it wasnt today. Please SUBSCRIBE and support the channel.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sKhf7QWJ7hg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sKhf7QWJ7hg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sKhf7QWJ7hg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Raw Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-04T07:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sxgUjOhcMF34i3s502HDQdkVNbM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VD5IMdpDMUY"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-01T18:31:12Z",
+                "channelId": "UCwMV2FVARycp5_p665_eyZg",
+                "title": "REPEATER || A QUIKSILVER SURF FILM",
+                "description": "Repeater is the new surf movie by Quiksilver with surfing by Mikey Wright, Rolo Montes, Griffin Colapinto, Kael Walsh, Al Cleland ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VD5IMdpDMUY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VD5IMdpDMUY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VD5IMdpDMUY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quiksilver",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-01T18:31:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v105SOXWa-XLxaJ7Y-x7oc7KGkI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s8-bVkKh_2A"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-31T19:00:32Z",
+                "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+                "title": "SURFING THE MOST SHALLOW SCARY REEF IN THE WORLD!!",
+                "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s8-bVkKh_2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s8-bVkKh_2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s8-bVkKh_2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jamie O'Brien",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-31T19:00:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "san4s41bNBY9eOQ4hEDS4zfF_M4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9myDK6u3V34"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-04T20:00:05Z",
+                "channelId": "UCkVkh-gNT84aGltvItqfnCA",
+                "title": "ULTIMATE SURFING KOOKSLAMS AND FAILS 2023 (INDONESIA)",
+                "description": "FOLLOW MY IG: https://www.instagram.com/indie_malherbe/ EDITED BY: https://www.instagram.com/indie_malherbe/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9myDK6u3V34/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9myDK6u3V34/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9myDK6u3V34/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Indie Malherbe",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-04T20:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yIzXEPjtMSSX65V1rOOtxd8fOSs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "g_qKXSIYKBU"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-04T00:16:44Z",
+                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+                "title": "WATCH LIVE Wallex US Open Of Surfing presented by Pacifico - Day 6",
+                "description": "The US Open of Surfing is one of Southern California's best summer traditions. Former CT surfers and elite young talents battle at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g_qKXSIYKBU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g_qKXSIYKBU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g_qKXSIYKBU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "World Surf League",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-04T00:16:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kTKkJH95FdV3vI5c1ObF6OS3wF8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FCN-PYQCi14"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-04T17:05:53Z",
+                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+                "title": "Jett Schilling vs Crosby Colapinto | Wallex US Open of Surfing - Round of 16 Heat Replay",
+                "description": "The US Open of Surfing is one of Southern California's best summer traditions. Former CT surfers and elite young talents battle at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FCN-PYQCi14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FCN-PYQCi14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FCN-PYQCi14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "World Surf League",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-04T17:05:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Mlr923EsF0JyMHidUe-Sqi-lxts",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OHaKUMtxGTU"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-11T09:44:18Z",
+                "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
+                "title": "SURFING THE CLEAREST WAVES EVER!? (RAW POV) + TESTING SURF GEAR [PT.2]",
+                "description": "In today's video, I surf the CLEAREST WAVES I have ever surfed! I also test out all the gear @HoStevie got me for Christmas!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Surfing With Noz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-11T09:44:18Z"
+            }
+        }
+    ]
+}
